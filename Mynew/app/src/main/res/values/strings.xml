@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My new</string>
+    <string name="amount">enter total amount</string>
+    <string name="percent">Enter percentage</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Attendancecalci</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="name">Enter ur age</string>
+    <string name="hi">enter your name</string>
+    <string name="mouli">Enter your name</string>
+    <string name="gopi">Enter your age</string>
+    <string name="lmp">Enter last month\'s percentage</string>
+    <string name="enter_total_working_days_of_this_month">Enter total working days of this month</string>
+    <string name="enter_current_month_number_1_6">Enter current month number(1-6)</string>
+    <string name="enter_last_months_percentage">Enter last months percentage</string>
+    <string name="total_number_of_working_days_in_this_month">Total Number of working days in this month</string>
+    <string name="enter_current_month_numkber_1_6">Enter current month number(1-6)</string>
+    <string name="total_no_of_working_days_in_this_month">Total no.of working days in this month</string>
+</resources>
